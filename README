@@ -1,0 +1,86 @@
+HOTH DEFENCE GAME
+
+Author: Lukasz Filanowski, 18414616
+
+
+BACKSTORY
+
+Daring escape! The rebellion's base on Hoth has been compromised and is in full evacuation. You must hold off the Empire's
+waves of fighters and bombers long enough for the rebels to escape safely. You're the best ace pilot that is up to the task.
+Will you ensure the rebellion lives to fight another day or will the dark grasps of the Empire spread throughout the galaxy?
+
+
+CONTROLS AND GAMEPLAY
+
+The player can be controlled using WASD or Arrow Keys. SPACE is the shoot button.
+
+In order to win the game the player must survive 25 waves of fighters and bombers trying to make their way to the base on the
+planet's surface. If a fighter makes it through, the base health will decrease by 1. If a bomber makes it through, the base
+will lose 2 health. If the base is reduced to 0, the game will end in a loss. Similarly, if the player loses their health,
+the game will be over as well. Throughout the game, a Repair power up will occasionally spawn which will restore player health.
+If a player gets this power up while on full health, the ship's shields will activate granting an additional layer of protection.
+
+
+REFERENCES FOR ASSETS USED
+
+Player Sprite: https://www.pngfind.com/mpng/hJmJbhb_x-wing-red-x-wing-pixel-art-png/
+
+Asteroid sprite: https://opengameart.org/content/brown-asteroid
+
+Main menu Music: https://www.youtube.com/watch?v=bOYdk1UY5o8
+
+Win Music: https://www.youtube.com/watch?v=xp7NFak7eII&t=1s
+
+Lose Music 1: https://www.youtube.com/watch?v=PgaMXwOF7MQ
+
+Lose Music 2: https://www.youtube.com/watch?v=jRpPp0RCh-4
+
+Code for song player: https://stackoverflow.com/questions/6045384/playing-mp3-and-wav-in-java
+
+Game Music: https://www.youtube.com/watch?v=Zdygj7jVpY4
+
+Start screen image: https://wallpapercave.com/w/wp2329339
+
+Background image: https://wallpapercave.com/w/wp7872562
+
+Laser sprite: https://kevinbagtas.wordpress.com/original/
+
+TIE sprite: http://pixelartmaker.com/art/8ebedec01a2d550
+
+Sound effects for X-Wing and TIE fighter flying: http://www.sa-matra.net/sounds/starwars/
+
+Sound adjust code: https://www.codegrepper.com/code-examples/java/how+to+control+clip+volume+java
+
+Star Wars font: https://fontmeme.com/star-wars-font/
+
+R2D2 sound: https://www.101soundboards.com/boards/10634-r2-d2-sounds-star-wars
+
+Explosion sprite: https://opengameart.org/content/pixel-art-explosion-animation
+
+Lose screen 1: https://www.deviantart.com/canisloopus/art/X-Wing-Explosion-27898728
+
+Lose screen 2: https://www.wired.com/2013/02/battle-of-hoth/
+
+Explosion sound: https://www.youtube.com/watch?v=gzwq0ue2qJ8
+
+Bomber sprite: https://www.pinterest.ie/milkmanofdoom/roll20-figures/
+
+Website used for pixelation: https://giventofly.github.io/pixelit/
+
+Website used to download videos and convert to .wav: https://loader.to/en75/youtube-wav-converter.html
+
+
+ADDITIONAL WORK DONE WITH ASSETS
+
+All image editing was done using Gimp and sound editing done using Audacity.
+
+-All of the song and sound effect files had to be converted to .wav files and downloaded.
+-In some cases the sound effect/song lengths and volume had to be adjusted.
+-The original asteroid image was converted into a sprite sheet.
+-Most of the loss/victory and background images had to edited and scaled to suit their uses in the game.
+-All screens/images that include Star Wars style font were edited to contain the font which was sourced from a separate website cited above.
+-Both TIE fighter and bomber sprites were copied and edited to create several damaged variants used in the game when enemy health is low.
+-The original bomber sprite had to be pixelated to suit the style of the game.
+-The player sprite was edited to give the appearance of a blue shield around it.
+-The original laser image had to be scaled and edited.
+-The laser sprite was copied and edited to a green shade to be used as enemy bullets.
